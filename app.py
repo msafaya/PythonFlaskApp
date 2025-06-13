@@ -8,7 +8,7 @@ def create_app():
 
     @app.route('/')
     def home():
-        return 'GFG'
+        return 'G89hjh'
 
     return app
 if __name__ == '__main__':
