@@ -8,7 +8,7 @@ def create_app():
 
     @app.route('/')
     def home():
-        return 'GFG123'
+        return 'WOW CI-CD Pipeline has been developed'
 
     return app
 
